@@ -1,0 +1,2 @@
+# Sem dependências externas! Usa apenas bibliotecas padrão do Python
+# Python 3.6+ necessário
